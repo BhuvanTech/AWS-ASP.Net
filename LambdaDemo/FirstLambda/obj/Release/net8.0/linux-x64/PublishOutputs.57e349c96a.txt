@@ -1,0 +1,6 @@
+C:\Users\bhuva\source\repos\AWS-ASP.Net\LambdaDemo\FirstLambda\bin\Release\net8.0\publish\FirstLambda.deps.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\LambdaDemo\FirstLambda\bin\Release\net8.0\publish\FirstLambda.runtimeconfig.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\LambdaDemo\FirstLambda\bin\Release\net8.0\publish\FirstLambda.pdb
+C:\Users\bhuva\source\repos\AWS-ASP.Net\LambdaDemo\FirstLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\LambdaDemo\FirstLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\LambdaDemo\FirstLambda\bin\Release\net8.0\publish\FirstLambda.dll
