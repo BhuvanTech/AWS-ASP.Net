@@ -1,0 +1,154 @@
+[
+  {
+    "ContainingType": "S3.Demo.API.Controllers.BucketsController",
+    "Method": "CreateS3BucketAsync",
+    "RelativePath": "api/bucket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S3.Demo.API.Controllers.BucketsController",
+    "Method": "GetAllBucketAsync",
+    "RelativePath": "api/bucket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S3.Demo.API.Controllers.BucketsController",
+    "Method": "DeleteBucketAsync",
+    "RelativePath": "api/bucket",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S3.Demo.API.Controllers.FilesController",
+    "Method": "DeleteFileAsync",
+    "RelativePath": "api/files/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S3.Demo.API.Controllers.FilesController",
+    "Method": "GetAllFilesAsync",
+    "RelativePath": "api/files/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S3.Demo.API.Controllers.FilesController",
+    "Method": "GetFileByKeyAsync",
+    "RelativePath": "api/files/get-by-key",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S3.Demo.API.Controllers.FilesController",
+    "Method": "UploadFileAsync",
+    "RelativePath": "api/files/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "S3.Demo.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[S3.Demo.API.WeatherForecast, S3.Demo.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
