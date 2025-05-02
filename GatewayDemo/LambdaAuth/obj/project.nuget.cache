@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "57yPFUmCIK0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhuva\\source\\repos\\AWS-ASP.Net\\GatewayDemo\\LambdaAuth\\LambdaAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhuva\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.9.0\\microsoft.identitymodel.abstractions.8.9.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.9.0\\microsoft.identitymodel.jsonwebtokens.8.9.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.identitymodel.logging\\8.9.0\\microsoft.identitymodel.logging.8.9.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.9.0\\microsoft.identitymodel.tokens.8.9.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.9.0\\system.identitymodel.tokens.jwt.8.9.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.8\\microsoft.netcore.app.runtime.linux-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.8\\microsoft.netcore.app.crossgen2.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

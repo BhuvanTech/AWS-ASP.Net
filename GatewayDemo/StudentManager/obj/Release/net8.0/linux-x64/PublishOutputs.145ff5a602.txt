@@ -1,0 +1,9 @@
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\StudentManager.deps.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\StudentManager.runtimeconfig.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\StudentManager.pdb
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\StudentManager\bin\Release\net8.0\publish\StudentManager.dll

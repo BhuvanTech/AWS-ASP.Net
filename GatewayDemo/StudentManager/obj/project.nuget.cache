@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tt+clU+ioFM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhuva\\source\\repos\\AWS-ASP.Net\\GatewayDemo\\StudentManager\\StudentManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhuva\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\awssdk.core\\4.0.0.2\\awssdk.core.4.0.0.2.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.0.2\\awssdk.dynamodbv2.4.0.0.2.nupkg.sha512",
+    "C:\\Users\\bhuva\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.8\\microsoft.netcore.app.crossgen2.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

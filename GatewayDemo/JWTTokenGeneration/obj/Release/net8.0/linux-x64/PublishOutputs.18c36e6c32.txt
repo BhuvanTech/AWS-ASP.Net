@@ -1,0 +1,15 @@
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\JWTTokenGeneration.deps.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\JWTTokenGeneration.runtimeconfig.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\JWTTokenGeneration.pdb
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Microsoft.Bcl.Memory.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\JWTTokenGeneration\bin\Release\net8.0\publish\JWTTokenGeneration.dll

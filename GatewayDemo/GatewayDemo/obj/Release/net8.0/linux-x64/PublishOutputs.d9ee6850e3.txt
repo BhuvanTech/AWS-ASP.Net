@@ -1,0 +1,7 @@
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\GatewayDemo\bin\Release\net8.0\publish\GatewayDemo.deps.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\GatewayDemo\bin\Release\net8.0\publish\GatewayDemo.runtimeconfig.json
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\GatewayDemo\bin\Release\net8.0\publish\GatewayDemo.pdb
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\GatewayDemo\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\GatewayDemo\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\GatewayDemo\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\bhuva\source\repos\AWS-ASP.Net\GatewayDemo\GatewayDemo\bin\Release\net8.0\publish\GatewayDemo.dll
